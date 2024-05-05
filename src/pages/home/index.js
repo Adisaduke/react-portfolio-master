@@ -39,14 +39,15 @@ export const Home = () => {
                 </h1>
                 <p className="mb-1x">{introdata.description}</p>
                 <div className="intro_btn-action pb-5">
-                  <Link to="/portfolio" className="text_2">
+                  <a href="/AdisaRasakResume.pdf" download>
                     <div id="button_p" className="ac_btn btn ">
-                      My Portfolio
+                      Download CV
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
                     </div>
-                  </Link>
+                  </a>
+
                   <Link to="/contact">
                     <div id="button_h" className="ac_btn btn">
                       Contact Me

@@ -1,3 +1,9 @@
+import expenses from "./assets/portfolio/Expensive.PNG";
+import contact from "./assets/portfolio/Contact.PNG";
+import ecommerce from "./assets/portfolio/ecommerce.PNG";
+import Movies from "./assets/portfolio/Movies.PNG";
+import wordanalyser from "./assets/portfolio/word-analyser.PNG";
+
 const logotext = "DUKE";
 const meta = {
   title: "Adisa Rasak",
@@ -95,77 +101,34 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: expenses,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "Track your spending effortlessly with Expenses. Manage your finances and stay on top of your budget with ease.",
+    link: "https://duke-expenses.netlify.app/",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: Movies,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "Discover and stream the latest movies with Movies. Explore a vast library of films and enjoy entertainment at your fingertips.",
+    link: "https://duke-movie.vercel.app/",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: ecommerce,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "Shop for trendy clothing online with Ecommerce. Explore a wide range of stylish apparel and accessories from the comfort of your home.",
+    link: "https://duke-ecommerce.vercel.app/",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: contact,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "Organize and access your contacts from anywhere with Contact. Save, search, and manage your contacts seamlessly online.",
+    link: "https://duke-contact-save-online.vercel.app/",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: wordanalyser,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/550/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "Analyze text quickly with Word Analyser. Count words, sentences, and paragraphs effortlessly for efficient writing.",
+    link: "https://duke-word-analyser.vercel.app/",
   },
 ];
 
