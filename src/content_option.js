@@ -139,9 +139,9 @@ const contactConfig = {
     "I'm here to assist you with any inquiries or projects you have in mind. Whether it's discussing potential collaborations or seeking advice on your next digital venture, I'm just a message away. ",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-  YOUR_SERVICE_ID: "service_id",
-  YOUR_TEMPLATE_ID: "template_id",
-  YOUR_USER_ID: "user_id",
+  YOUR_SERVICE_ID: "service_3wtppma",
+  YOUR_TEMPLATE_ID: "template_66469uj",
+  YOUR_USER_ID: "Q2UZIETkfl8LtmtCW",
 };
 
 const socialprofils = {
