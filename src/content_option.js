@@ -125,7 +125,7 @@ const dataportfolio = [
   {
     img: weather,
     description:
-      "Organize and access your contacts from anywhere with Contact. Save, search, and manage your contacts seamlessly online.",
+      "Get updated with the latest weather update",
     link: "https://duke-weather.vercel.app/",
   },
   {
