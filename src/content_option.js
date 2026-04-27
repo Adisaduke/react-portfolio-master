@@ -2,7 +2,7 @@ import expenses from "./assets/portfolio/Expensive.PNG";
 import weather from "./assets/portfolio/Weather.PNG";
 import ecommerce from "./assets/portfolio/ecommerce.PNG";
 import Movies from "./assets/portfolio/Movies.PNG";
-import wura from "./assets/portfolio/wura.PNG";
+import wura from "./assets/portfolio/Wura.PNG";
 
 const logotext = "DUKE";
 const meta = {
