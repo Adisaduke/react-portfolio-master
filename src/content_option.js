@@ -1,8 +1,8 @@
 import expenses from "./assets/portfolio/Expensive.PNG";
-import contact from "./assets/portfolio/Contact.PNG";
+import weather from "./assets/portfolio/Weather.PNG";
 import ecommerce from "./assets/portfolio/ecommerce.PNG";
 import Movies from "./assets/portfolio/Movies.PNG";
-import wordanalyser from "./assets/portfolio/word-analyser.PNG";
+import wura from "./assets/portfolio/wura.PNG";
 
 const logotext = "DUKE";
 const meta = {
@@ -55,7 +55,7 @@ const skills = [
     value: 85,
   },
   {
-    name: "Boostrap",
+    name: "Tailwind",
     value: 80,
   },
   {
@@ -64,15 +64,19 @@ const skills = [
   },
   {
     name: "React",
-    value: 80,
-  },
-  {
-    name: "Jquery",
-    value: 85,
+    value: 90,
   },
   {
     name: "Git & Github",
     value: 85,
+  },
+  {
+    name: "NextJS",
+    value: 50,
+  },
+  {
+    name: "Typescript",
+    value: 40,
   },
 ];
 
@@ -80,7 +84,7 @@ const services = [
   {
     title: "Frontend Development",
     description:
-      "Craft captivating user interfaces and seamless interactions with expertise in HTML, CSS, and JavaScript. Elevate your digital presence with stunning frontend solutions tailored to your needs.",
+      "Craft captivating user interfaces and seamless interactions with expertise in HTML, CSS, JavaScript, ReactJs, NextJs and Typescript. Elevate your digital presence with stunning frontend solutions tailored to your needs.",
   },
   {
     title: "Web Apps",
@@ -119,16 +123,16 @@ const dataportfolio = [
     link: "https://duke-ecommerce.vercel.app/",
   },
   {
-    img: contact,
+    img: weather,
     description:
       "Organize and access your contacts from anywhere with Contact. Save, search, and manage your contacts seamlessly online.",
-    link: "https://duke-contact-save-online.vercel.app/",
+    link: "https://duke-weather.vercel.app/",
   },
   {
-    img: wordanalyser,
+    img: wura,
     description:
-      "Analyze text quickly with Word Analyser. Count words, sentences, and paragraphs effortlessly for efficient writing.",
-    link: "https://duke-word-analyser.vercel.app/",
+      "Find the Best Local Businesse.",
+    link: "https://my-wura-duke.vercel.app/",
   },
 ];
 
